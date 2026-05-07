@@ -1,0 +1,1 @@
+We developed a new SR-MWS method to improve Two-Component Extreme Value (TCEV) fitting for hydrological data. It stabilizes initial parameters, emphasizes right-tail extremes, and evaluates global and tail performance. Results show superior accuracy and robustness compared to existing TCEV, GEV, and Gumbel methods, offering an automated tool for extreme-event modeling.
